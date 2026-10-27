@@ -1,0 +1,572 @@
+{
+ "title": "Bandung – Jogja 2026",
+ "days": [
+  {
+   "title": "Keberangkatan",
+   "date": "2026-11-02",
+   "items": [
+    {
+     "time": "21:45 - 22:00",
+     "duration": "15 menit",
+     "title": "OTW Stasiun Kiaracondong",
+     "note": "Gocar/Grab",
+     "budget": 30000,
+     "start": "2026-11-02T21:45",
+     "place": "Stasiun Kiaracondong Bandung"
+    },
+    {
+     "time": "22:20 - 06:30",
+     "duration": "8 Jam",
+     "title": "Bandung - Yogyakarta",
+     "note": "Kereta Api - Kahuripan",
+     "budget": 169000,
+     "start": "2026-11-02T22:20",
+     "place": ""
+    }
+   ]
+  },
+  {
+   "title": "Day 1",
+   "date": "2026-11-03",
+   "items": [
+    {
+     "time": "06:30",
+     "duration": "",
+     "title": "Sampai di stasiun Lempuyangan",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-03T06:30",
+     "place": "Stasiun Lempuyangan Yogyakarta"
+    },
+    {
+     "time": "06:30 - 07:30",
+     "duration": "1 Jam",
+     "title": "Mandi dan Titip Tas",
+     "note": "Mandi",
+     "budget": 30000,
+     "start": "2026-11-03T06:30",
+     "place": ""
+    },
+    {
+     "time": "",
+     "duration": "",
+     "title": "Titip tas 6 jam di Locker stasiun s.d jam 13.00",
+     "note": "",
+     "budget": 55000,
+     "start": "",
+     "place": ""
+    },
+    {
+     "time": "",
+     "duration": "",
+     "title": "Sewa Motor 4 Hari",
+     "note": "Motor",
+     "budget": 280000,
+     "start": "",
+     "place": ""
+    },
+    {
+     "time": "07:30 - 07:40",
+     "duration": "10 menit",
+     "title": "Isi Bensin motor",
+     "note": "Motor",
+     "budget": 100000,
+     "start": "2026-11-03T07:30",
+     "place": ""
+    },
+    {
+     "time": "07:40 - 07:55",
+     "duration": "10 menit",
+     "title": "Perjalanan ke Pasar Ngasem",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-03T07:40",
+     "place": ""
+    },
+    {
+     "time": "07:55 - 09:00",
+     "duration": "1 Jam",
+     "title": "Sarapan & Kuliner di Pasar Ngasem",
+     "note": "",
+     "budget": 50000,
+     "start": "2026-11-03T07:55",
+     "place": "Pasar Ngasem Yogyakarta"
+    },
+    {
+     "time": "09:00 - 09:40",
+     "duration": "40 menit",
+     "title": "Perjalanan ke Candi Prambanan",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-03T09:00",
+     "place": ""
+    },
+    {
+     "time": "09:40 - 12:00",
+     "duration": "2 Jam 20 menit",
+     "title": "Candi Prambanan",
+     "note": "",
+     "budget": 100000,
+     "start": "2026-11-03T09:40",
+     "place": "Candi Prambanan Yogyakarta"
+    },
+    {
+     "time": "12:00 - 12:12",
+     "duration": "12 menit",
+     "title": "Perjalanan ke Chandari Heaven",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-03T12:00",
+     "place": ""
+    },
+    {
+     "time": "12:12 - 14:12",
+     "duration": "2 Jam",
+     "title": "Chandari Heaven",
+     "note": "",
+     "budget": 200000,
+     "start": "2026-11-03T12:12",
+     "place": "Chandari Heaven Yogyakarta"
+    },
+    {
+     "time": "14:12 - 14:45",
+     "duration": "30 menit",
+     "title": "Perjalanan ke Pitcniq",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-03T14:12",
+     "place": ""
+    },
+    {
+     "time": "14:45 - 16:00",
+     "duration": "1 jam 15 menit",
+     "title": "Pitcniq",
+     "note": "",
+     "budget": 60000,
+     "start": "2026-11-03T14:45",
+     "place": "Pitcniq Yogyakarta"
+    },
+    {
+     "time": "16:00 - 16:40",
+     "duration": "40 menit",
+     "title": "Perjalanan ke hotel",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-03T16:00",
+     "place": ""
+    },
+    {
+     "time": "16:40 - 18:00",
+     "duration": "1 jam 10 menit",
+     "title": "Check in hotel & istirahat",
+     "note": "",
+     "budget": 372405,
+     "start": "2026-11-03T16:40",
+     "place": ""
+    },
+    {
+     "time": "18:00 - 19:00",
+     "duration": "1 jam",
+     "title": "Kuliner, jalan-jalan malioboro, beli cemilan untuk ganjel besok pagi",
+     "note": "Jalan kaki / motor",
+     "budget": 150000,
+     "start": "2026-11-03T18:00",
+     "place": "Malioboro Yogyakarta"
+    },
+    {
+     "time": "19:00 - selesai",
+     "duration": "",
+     "title": "Istirahat di hotel",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-03T19:00",
+     "place": ""
+    }
+   ]
+  },
+  {
+   "title": "Day 2",
+   "date": "2026-11-04",
+   "items": [
+    {
+     "time": "07:30 - 08:00",
+     "duration": "30 menit",
+     "title": "sarapan di hotel",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-04T07:30",
+     "place": ""
+    },
+    {
+     "time": "08:00 - 08:45",
+     "duration": "45 menit",
+     "title": "Perjalanan ke kopi Klotok",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-04T08:00",
+     "place": ""
+    },
+    {
+     "time": "08:45 - 09:15",
+     "duration": "30 menit",
+     "title": "Sarapan di kopi klotok",
+     "note": "",
+     "budget": 50000,
+     "start": "2026-11-04T08:45",
+     "place": "Kopi Klotok Pakem Yogyakarta"
+    },
+    {
+     "time": "09:15 - 09:40",
+     "duration": "25 menit",
+     "title": "Perjalanan ke ATV Kaliurang",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-04T09:15",
+     "place": ""
+    },
+    {
+     "time": "09:40 - 10:00",
+     "duration": "20 menit",
+     "title": "bersiap, registrasi ATV Kaliurang",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-04T09:40",
+     "place": "ATV Kaliurang Yogyakarta"
+    },
+    {
+     "time": "10:00 - 12:00",
+     "duration": "2 jam",
+     "title": "ATV Kaliurang",
+     "note": "",
+     "budget": 500000,
+     "start": "2026-11-04T10:00",
+     "place": "ATV Kaliurang Yogyakarta"
+    },
+    {
+     "time": "12:00 - 12:30",
+     "duration": "30 menit",
+     "title": "bebersih beres ATV Kaliurang",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-04T12:00",
+     "place": "ATV Kaliurang Yogyakarta"
+    },
+    {
+     "time": "12:30 - 13:00",
+     "duration": "30 menit",
+     "title": "Istirahat, Sholat, Makan",
+     "note": "",
+     "budget": 30000,
+     "start": "2026-11-04T12:30",
+     "place": ""
+    },
+    {
+     "time": "13:00 - 13:10",
+     "duration": "10 menit",
+     "title": "Perjalanan ke Kville Kaliurang",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-04T13:00",
+     "place": ""
+    },
+    {
+     "time": "13:10 - 14:30",
+     "duration": "1 jam 20 menit",
+     "title": "Kville Kaliurang",
+     "note": "",
+     "budget": 40000,
+     "start": "2026-11-04T13:10",
+     "place": "Kville Kaliurang Yogyakarta"
+    },
+    {
+     "time": "14:30 - 15:15",
+     "duration": "45 menit",
+     "title": "Perjalanan ke Hotel",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-04T14:30",
+     "place": ""
+    },
+    {
+     "time": "16:00 - 18:00",
+     "duration": "2 jam",
+     "title": "Prawirotaman, tempo gelato, cari oleh-oleh",
+     "note": "",
+     "budget": 100000,
+     "start": "2026-11-04T16:00",
+     "place": "Tempo Gelato Prawirotaman Yogyakarta"
+    },
+    {
+     "time": "18:00 - selesai",
+     "duration": "",
+     "title": "Istirahat di Hotel",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-04T18:00",
+     "place": ""
+    }
+   ]
+  },
+  {
+   "title": "Day 3",
+   "date": "2026-11-05",
+   "items": [
+    {
+     "time": "06:30 - 07:00",
+     "duration": "30 menit",
+     "title": "Sarapan di hotel siap siap check out",
+     "note": "",
+     "budget": 20000,
+     "start": "2026-11-05T06:30",
+     "place": ""
+    },
+    {
+     "time": "07:30 - 07:45",
+     "duration": "15 menit",
+     "title": "Check out hotel 1",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-05T07:30",
+     "place": ""
+    },
+    {
+     "time": "07:45 - 08:00",
+     "duration": "15 menit",
+     "title": "Perjalanan ke GoLock (penitipan barang)",
+     "note": "Motor",
+     "budget": 65000,
+     "start": "2026-11-05T07:45",
+     "place": ""
+    },
+    {
+     "time": "08:15 - 09:45",
+     "duration": "1 jam 30 menit",
+     "title": "Perjalanan ke On The Rock",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-05T08:15",
+     "place": ""
+    },
+    {
+     "time": "10:00 - 11:30",
+     "duration": "1 Jam 30 menit",
+     "title": "On The Rock & Pantai Drini",
+     "note": "",
+     "budget": 80000,
+     "start": "2026-11-05T10:00",
+     "place": "On The Rock Pantai Drini Gunungkidul"
+    },
+    {
+     "time": "11:30 - 12:05",
+     "duration": "35 menit",
+     "title": "istirahat makan solat",
+     "note": "",
+     "budget": 30000,
+     "start": "2026-11-05T11:30",
+     "place": ""
+    },
+    {
+     "time": "12:05 - 13:00",
+     "duration": "1 jam",
+     "title": "Perjalanan ke Gesing Wonderland",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-05T12:05",
+     "place": ""
+    },
+    {
+     "time": "13:00 - 14:00",
+     "duration": "1 jam",
+     "title": "Pantai Gesing Wonderland",
+     "note": "",
+     "budget": 50000,
+     "start": "2026-11-05T13:00",
+     "place": "Gesing Wonderland Gunungkidul"
+    },
+    {
+     "time": "14:00 - 15:00",
+     "duration": "1 jam",
+     "title": "Perjalanan ke GoLock (penitipan barang)",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-05T14:00",
+     "place": ""
+    },
+    {
+     "time": "15:00 - 15:30",
+     "duration": "30 menit",
+     "title": "Perjalanan ke Villa Lavella Jogja",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-05T15:00",
+     "place": ""
+    },
+    {
+     "time": "15:30",
+     "duration": "",
+     "title": "Check in villa, istirahat",
+     "note": "",
+     "budget": 485817,
+     "start": "2026-11-05T15:30",
+     "place": "Villa Lavella Jogja"
+    },
+    {
+     "time": "",
+     "duration": "",
+     "title": "Beli makan di GoFood",
+     "note": "",
+     "budget": 30000,
+     "start": "",
+     "place": ""
+    }
+   ]
+  },
+  {
+   "title": "Day 4",
+   "date": "2026-11-06",
+   "items": [
+    {
+     "time": "10:00",
+     "duration": "",
+     "title": "sarapan + makan siang",
+     "note": "",
+     "budget": 30000,
+     "start": "2026-11-06T10:00",
+     "place": ""
+    },
+    {
+     "time": "11:30 - 12:00",
+     "duration": "30 menit",
+     "title": "check out villa",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-06T11:30",
+     "place": ""
+    },
+    {
+     "time": "12:00 - 12:30",
+     "duration": "20 menit",
+     "title": "perjalanan ke tempat penginapan abimanyu",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-06T12:00",
+     "place": "Penginapan Abimanyu Yogyakarta"
+    },
+    {
+     "time": "13:00 - 14:00",
+     "duration": "20 menit",
+     "title": "check inn penginapan abimanyu",
+     "note": "",
+     "budget": 90000,
+     "start": "2026-11-06T13:00",
+     "place": "Penginapan Abimanyu Yogyakarta"
+    },
+    {
+     "time": "14:00 - 15:00",
+     "duration": "1 jam",
+     "title": "Perjalanan ke Obelix Sea View",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-06T14:00",
+     "place": ""
+    },
+    {
+     "time": "16:00 - 19:00",
+     "duration": "1 jam",
+     "title": "Obelix Sea View",
+     "note": "",
+     "budget": 100000,
+     "start": "2026-11-06T16:00",
+     "place": "Obelix Sea View Yogyakarta"
+    },
+    {
+     "time": "19:00 - 20:00",
+     "duration": "2 jam",
+     "title": "perjalanan ke penginapan",
+     "note": "Motor",
+     "budget": 0,
+     "start": "2026-11-06T19:00",
+     "place": ""
+    },
+    {
+     "time": "20:00",
+     "duration": "",
+     "title": "istirahat + makan malam",
+     "note": "",
+     "budget": 30000,
+     "start": "2026-11-06T20:00",
+     "place": ""
+    },
+    {
+     "time": "",
+     "duration": "",
+     "title": "infokan motor sewa untuk di ambil",
+     "note": "",
+     "budget": 0,
+     "start": "",
+     "place": ""
+    },
+    {
+     "time": "00:00",
+     "duration": "",
+     "title": "Siap siap check out",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-07T00:00",
+     "place": ""
+    },
+    {
+     "time": "07:12",
+     "duration": "",
+     "title": "perjalanan ke stasiun tugu",
+     "note": "Gocar/Grab",
+     "budget": 20000,
+     "start": "2026-11-07T07:12",
+     "place": "Stasiun Tugu Yogyakarta"
+    }
+   ]
+  },
+  {
+   "title": "Day 5",
+   "date": "2026-11-07",
+   "items": [
+    {
+     "time": "00:45",
+     "duration": "",
+     "title": "tiba di stasiun tugu",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-07T00:45",
+     "place": "Stasiun Tugu Yogyakarta"
+    },
+    {
+     "time": "01:30 - 08:30",
+     "duration": "",
+     "title": "Stasiun Tugu Yogyakarta - Stasiun Bandung",
+     "note": "Kereta Api - Sangkuriang",
+     "budget": 600000,
+     "start": "2026-11-07T01:30",
+     "place": ""
+    },
+    {
+     "time": "",
+     "duration": "15 Menit",
+     "title": "perjalanan ke rumah",
+     "note": "Gocar/Grab",
+     "budget": 20000,
+     "start": "",
+     "place": ""
+    },
+    {
+     "time": "09:00",
+     "duration": "",
+     "title": "Sampai Rumah",
+     "note": "",
+     "budget": 0,
+     "start": "2026-11-07T09:00",
+     "place": ""
+    }
+   ]
+  }
+ ]
+}
